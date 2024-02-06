@@ -1,0 +1,38 @@
+Pay Tracker,,,,,,Employees,Hours Worked Week 1,Hours Worked Week 2,,Exterior Windows
+Area:,County2,,,,,Employee1,10,10,,Interior Windows
+Pay Period:,04/23/2023 - 05/13/2023,,,,,Employee2,0,8,,Frame Washing
+,,,,,,Employee3,0,4,,Screen Washing
+,,,,,,Employee4,5,5,,Screen Repair (Mesh and Frame)
+,,,,,,Employee5,0,3,,Screen Repair (Mesh Only)
+,,,,,,Employee6,10,0,,Solar Panel Cleaning
+,,,,,,Employee7,10,3,,Pressure Washing
+,,,,,,Employee8,4,4,,Garage Door Windows
+,,,,,,Employee9,0,1,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+"ONLY input customers into this area after payment has been collected, and the job has been marked as complete.",,,,,,,,,,
+,,,,,,,,,,
+Completed Job Info:,,,,,,,,,,
+First Name,Last Name,Date,Serviced Amount,Services Rendered,Upsold Amount (If Applicable),Upsold Services Rendered (If Applicable),Service Team,Upseller,Sales Rep,
+Michael,League,5/3/2023,150,Exterior Windows,0,,"Employee1, Employee6, Employee7",,Employee6,
+Bill,Laurance,5/3/2023,80,Exterior Windows,0,,"Employee1, Employee6, Employee7",,Employee6,
+Bobby,Sparks,5/3/2023,150,Exterior Windows,0,,"Employee1, Employee6, Employee7",,Employee4,
+Justin ,Stanton,5/3/2023,150,Exterior Windows,0,,"Employee1, Employee6, Employee7",,Employee5,
+Shaun,Martin,4/26/2023,$279 ,Exterior Windows,0,,"Employee1, Employee6, Employee7",,Employee4,
+Bob,Lanzetti,4/26/2023,$250 ,Exterior Windows,0,,"Employee1, Employee6, Employee7",,Employee4,
+Mark,Lettieri,4/27/2023,$310 ,Exterior Windows,0,,"Employee1, Employee6, Employee7",,Employee4,
+Chris,McQueen,5/2/2023,$315 ,Exterior Windows,0,,"Employee1, Employee6, Employee7",,Employee4,
+Mike,Maher,4/22/2023,$100 ,Exterior Windows,0,,"Employee1, Employee7",,Employee4,
+Jay ,Jennings,5/2/2023,$240 ,Exterior Windows,0,,"Employee1, Employee6, Employee7",,Employee5,
+Nate,Werth,5/9/2023,350,Exterior Windows,0,,"Employee8, Employee7",,Employee4,
+Larnell,Lewis,5/9/2023,200,Exterior Windows,0,,"Employee8, Employee7",,Employee4,
+Marcelo,Woloski,5/9/2023,230,Exterior Windows,0,,"Employee1, Employee2",,Employee1,
+Keita,Ogawa,5/9/2023,230,Exterior Windows,0,,"Employee1, Employee2",,Employee1,
+Jamison ,Ross,5/10/2023,180,Exterior Windows,0,,"Employee1, Employee2",,Employee5,
+Jason,Thomas,5/10/2023,230,Exterior Windows,0,,"Employee1, Employee2",,Employee1,
+Chris,Bullock,5/10/2023,370,Exterior Windows,0,,Employee3,,Employee9,
+Bob,Reynolds,5/11/2023,180,Exterior Windows,0,,"Employee1, Employee8, Employee2",,Employee1,
+Zach,Brock,5/11/2023,390,Exterior Windows,0,,"Employee1, Employee8, Employee2",,Employee4,
